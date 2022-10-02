@@ -33,6 +33,6 @@
 - [[Day 29] Hypervisor fuzzer - Nyx](Day29.md)
 - [[Day 30] Hypervisor fuzzer - Hypercube 與參賽心得](Day30.md)
 
-基本上文章內容極少參考第二首資料，如果內容有誤就代表我還沒完全理解，麻煩通知我一聲或是開 issue 討論，謝謝！
+基本上文章內容極少參考第二手資料，如果內容有誤就代表我還沒完全理解，麻煩通知我一聲或是開 issue 討論，謝謝！
 
 > 鐵人賽連結： https://ithelp.ithome.com.tw/users/20151153/ironman/5164
